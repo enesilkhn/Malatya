@@ -2,16 +2,16 @@
     { 
         "isim" :"Tohma Kanyonu",
          "aciklama":"Tohma Kanyonu dik ve dike yakın yüksek yamaçlardan oluşan bir görünüme sahiptir. Bu özelliği ile kanyon yamaçları tırmanış sporcularına adrenalin dolu bir macera sunmaktadır. Kanyon içerisinden akan Tohma, üzerinde Rafting severlere heyecanlı saatler yaşatırken, Tohma kıyısındaki dar ve patika yolların yanı sıra mükemmel manzara, adeta doğa yürüyüşünü (trekking ) tercih edenlere eğlenceli saatler geçirmeleri için tasarlanmıştır. ",
-         "fotourl":"https://github.com/enesilkhn/Malatya/main/TohmaKanyonu.jpg"
+         "fotourl":"https://raw.githubusercontent.com/enesilkhn/Malatya/main/TohmaKanyonu.jpg"
     },
     {
         "isim":"Gürpınar Şelalesi",
         "aciklama":"Darende ilçesinde bulunan Gürpınar Şelalesi, doğal güzellikleriyle dikkat çeken bir yerdir. Karasu Çayı üzerinde yer alan şelale, serin ve yeşilliklerle kaplı bir piknik alanı sunar, doğa severler için güzel bir gezi noktasıdır.",
-        "fotourl":"https://github.com/enesilkhn/Malatya/main/darende.jpg"
+        "fotourl":"https://raw.githubusercontent.com/enesilkhn/Malatya/main/darende.jpg"
     },
     {
         "isim":"Levent Vadisi",
         "aciklama":"Levent Vadisi, Malatya ilinin Darende ilçesinde yer alan doğal bir vadi alanıdır. Vadide, yeşilliklerle çevrili bir dere bulunur ve bu alan doğa yürüyüşleri, piknikler ve dinlenme aktiviteleri için tercih edilen bir yerdir. Ziyaretçiler, vadideki temiz hava ve doğal güzelliklerin tadını çıkarabilirler.",
-        "fotourl":"https://github.com/enesilkhn/Malatya/main/leventvadisi.jpg"
+        "fotourl":"https://raw.githubusercontent.com/enesilkhn/Malatya/main/leventvadisi.jpg"
     } 
 ]}
